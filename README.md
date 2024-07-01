@@ -21,4 +21,4 @@ To uninstall run `sudo make uninstall`
 
 [hydrogen](https://github.com/tau-OS/tau-hydrogen) for the icons
 
-[Lea](http://github.com/lleyton) for putting up with my dumb questions
+[Lea](http://github.com/lleyton) and [Lains](https://github.com/lainsce) for putting up with my dumb questions
