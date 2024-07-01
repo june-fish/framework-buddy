@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Framework Buddy
+Comment=Control EC settings on the Framework laptop
+Exec=pkexec /usr/bin/fish.june.framework-buddy %u
+Icon=fish.june.framework-buddy
+Terminal=false
+StartupNotify=true
+Categories=GTK;System;
+Keywords=Center;Control;Panel;Preferences;System;
